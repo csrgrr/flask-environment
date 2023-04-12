@@ -1,0 +1,2 @@
+.\venv\Scripts\activate
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy pymysql
